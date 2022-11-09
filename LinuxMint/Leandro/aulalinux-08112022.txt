@@ -1,0 +1,23 @@
+# Primeira etapa:     windows           GNU/Linux
+
+                      NTFS FAT32        EXT4
+					  PARTICIONAMENTO
+					  
+					  
+					  
+# Segunda etapa:	  windows           GNU/Linux
+
+  Redes (TCP/IPv4)    ipconfig          ifcofing    
+                      ipconfig /all     route -n
+					                    resolvectl  
+					  nslookup			nslookup
+					  ping              ping
+					  
+					  
+# terceira etapa:     windows           GNU/Linux
+
+                                        pwd
+                      dir ls            ls -lh
+					  cd                cd
+					  md                mkdir
+					                    touch README.md
